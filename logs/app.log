@@ -1,0 +1,7 @@
+2025-03-07 14:17:48,871 DEBUG [main] c.jags.App [App.java:79] - INFO Message from logger App
+2025-03-07 14:17:48,877 INFO [main] c.jags.App [App.java:80] - INFO Message from logger App
+2025-03-07 14:17:48,878 WARN [main] c.jags.App [App.java:81] - WARN Message from logger App
+2025-03-07 14:17:48,879 ERROR [main] c.jags.App [App.java:82] - ERROR Message from logger App
+2025-03-07 14:17:48,879 WARN [main] c.jags.App [App.java:86] - Exception Occured
+java.lang.Exception: null
+	at com.jags.App.main(App.java:84)
